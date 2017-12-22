@@ -1,0 +1,3 @@
+*.swp
+cache/
+.ipynb_checkpoints/
